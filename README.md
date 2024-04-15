@@ -6,27 +6,27 @@ The primary objective of this report is to provide dynamic strategies to improve
 
 
 ### Description of Columns
-The dataset consit of A fact table and two dimebsional tables
+The dataset consit of A fact table and two dimensional tables
 ### Fact Table
-- Customer ID : Unique identifier for customers
-- Tenure: length of time of a customer
-- Phone Service:  Services provided to customers
-- Multiple Lines: plines witbin a single account
-Internet Service: internet connection to customers
-- Online Security: A service provider to ptotect customers information and assests
-Online Backup:  A bservice provided to secure, store and protect customers files and documents
-- Device Protection: A service provided to safeguard customers electronic devices from damage and loss
+- Customer ID : Unique identifier for customers.
+- Tenure: length of time of a customer.
+- Phone Service:  Services provided to customers.
+- Multiple Lines: Lines within a single account.
+- Internet Service: internet connection to customers.
+- Online Security: A service provider to protect customers information and assests.
+- Online Backup:  A service provided to secure, store and protect customers files and documents.
+- Device Protection: A service provided to safeguard customers electronic devices from damage and loss.
 - Tech Support: Assistance provided to address customers technical issues.
 - Streaming Tv: The provision of television content over the internet in customers devices.
-- Streaming Movies: A service provided to deliver movies over internet to customers devices
-- Contract: The duration of contract
-- Paperless Billing: Statement and invoices of customers
-- Monthly Charges: Recurring fees or cost incured by customers
-Total Charges: Overall fees of Customers
-- Numadmintickets: Number of administrative tickect handled by administrative support team
-- Numbtechtickets: Number of tech support handled by tech support team
-- Churn key: key of customer churn
-Loyalty: repeat purchase from customers
+- Streaming Movies: A service provided to deliver movies over internet to customers devices.
+- Contract: The duration of contract.
+- Paperless Billing: Statement and invoices of customers.
+- Monthly Charges: Recurring fees or cost incured by customers.
+- Total Charges: Overall fees of Customers.
+- Numadmintickets: Number of administrative tickect handled by administrative support team.
+- Numbtechtickets: Number of tech support handled by tech support team.
+- Churn key: key of customer churn.
+- Loyalty: repeat purchase from customers.
 ### Dimensional Tables
 Dimensional tables includes additional attributes such as
 
