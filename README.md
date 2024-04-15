@@ -1,6 +1,6 @@
 # Customer Churn Retention Analysis
 ## Introduction
-The churn retention dataset contains information on customer behaviour, includiding churn rates and retention rates, over a specific period.
+The churn retention dataset contains information on customer behaviour, including churn rates and retention rates, over a specific period.
 ### Objective
 The primary objective of this report is to provide dynamic strategies to improve retention rate.
 
